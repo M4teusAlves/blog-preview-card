@@ -1,25 +1,25 @@
-#Blog Preview Card
+# Blog Preview Card
 
-##Objetivo
+## Objetivo
 
 Esse projeto visa replicar um desafio do site 
 <a href="https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS" target="blank">Frontend Mentor</a>  
 
-##Referência
+## Referência
 
-###Desktop
+### Desktop
 
 <img src="./README_assets/desktop-design.jpg">
 
-###Mobile
+### Mobile
 
 <img src="./README_assets/mobile-design.jpg">
 
-##Resultado
+## Resultado
 
-###Link do Projeto:
+### Link do Projeto:
 
-##Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
  - <a href="https://react.dev" target="blank">React</a>
  - <a href="https://www.typescriptlang.org" target="blank">Typecript</a>
