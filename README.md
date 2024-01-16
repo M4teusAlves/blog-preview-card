@@ -9,11 +9,11 @@ Esse projeto visa replicar um desafio do site
 
 ### Desktop
 
-<img src="./README_assets/desktop-page.jpg">
+<img src="./README_assets/desktop-page.png">
 
 ### Mobile
 
-<img src="./README_assets/mobile-page.jpg">
+<img src="./README_assets/mobile-page.png">
 
 ### Link do Projeto: https://m4teusalves.github.io/blog-preview-card/
 
