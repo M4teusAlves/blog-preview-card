@@ -5,19 +5,17 @@
 Esse projeto visa replicar um desafio do site 
 <a href="https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS" target="blank">Frontend Mentor</a>  
 
-## Referência
+## Resultado
 
 ### Desktop
 
-<img src="./README_assets/desktop-design.jpg">
+<img src="./README_assets/desktop-page.jpg">
 
 ### Mobile
 
-<img src="./README_assets/mobile-design.jpg">
+<img src="./README_assets/mobile-page.jpg">
 
-## Resultado
-
-### Link do Projeto:
+### Link do Projeto: https://m4teusalves.github.io/blog-preview-card/
 
 ## Tecnologias Utilizadas
 
